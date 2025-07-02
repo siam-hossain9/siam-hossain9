@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Siam Hossain
 
-<!--
-**siam-hossain9/siam-hossain9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at AIUB | 🤖 Arduino Enthusiast | 💻 Curious Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Languages:** C++, C#, Java, Python, MATLAB
+- **Embedded/IoT:** Arduino (UNO, Nano, SMT), Raspberry Pi, Sensors (ultrasonic, raindrop), Servo Motors, PCB design (basic)
+- **Software/Tools:** OpenGL (GLUT), Unity (basic),  GitHub, Visual Studio, Google Colab
+- **Other:** Circuit wiring, Soldering, GPIO control, Python GPIO libraries, Real-time automation
+
+---
+
+
