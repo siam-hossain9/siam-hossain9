@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Siam Hossain 👋</h1>
+<h1 align="center">Hi, I'm Siam Hossain</h1>
 
 <p align="center">
   <em>CSE Student at AIUB &nbsp;|&nbsp; Embedded Systems & IoT &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Full-Stack Learner</em>
@@ -15,17 +15,17 @@
 
 ---
 
-## 🙋 About Me
+## About Me
 
-- 🎓 Studying **Computer Science & Engineering** at AIUB
-- 🔬 Passionate about **IoT**, **embedded systems**, and **machine learning**
-- 🌱 Currently exploring **deep learning**, **PHP/web development**, and **computer vision**
-- 🛠️ I enjoy building everything from Arduino circuits to ML models
-- 📫 Reach me at **[GitHub](https://github.com/siam-hossain9)**
+- Studying **Computer Science & Engineering** at AIUB
+- Passionate about **IoT**, **embedded systems**, and **machine learning**
+- Currently exploring **deep learning**, **PHP/web development**, and **computer vision**
+- I enjoy building everything from Arduino circuits to ML models
+- Reach me at **[GitHub](https://github.com/siam-hossain9)**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -56,40 +56,40 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🤖 Embedded Systems & IoT
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🟢 [**Reaction Time Game**](https://github.com/siam-hossain9/Reaction-Time-Game_IOT_Project) | Multiplayer reaction-speed game using LEDs, push buttons & OLED display | Arduino, C++ |
-| 🏠 [**Smart Home Automation**](https://github.com/siam-hossain9/Smart_Home_IOT_Project) | Automated doorbell, rain detection & clothes protection with servo motors | Arduino, C++, Sensors |
-
-### 🧠 Machine Learning & AI
+### Embedded Systems & IoT
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🌤️ [**Weather Prediction**](https://github.com/siam-hossain9/weather-prediction-project) | Predicts weather patterns using 10 years of climate data | Python, ML, Colab |
-| 🖼️ [**Intel Image Classification (CNN)**](https://github.com/siam-hossain9/Intel-Image-Classification-CNN) | Scene classification using convolutional neural networks | Python, TensorFlow, Jupyter |
-| 🔬 [**Few-Shot Fine-Grained Classification**](https://github.com/siam-hossain9/few-shot-fine-grained-baselines) | Fine-grained image classification with DINOv2 & CLIP pretrained models | Python, DINOv2, CLIP |
+| [**Reaction Time Game**](https://github.com/siam-hossain9/Reaction-Time-Game_IOT_Project) | Multiplayer reaction-speed game using LEDs, push buttons & OLED display | Arduino, C++ |
+| [**Smart Home Automation**](https://github.com/siam-hossain9/Smart_Home_IOT_Project) | Automated doorbell, rain detection & clothes protection with servo motors | Arduino, C++, Sensors |
 
-### 💻 Software & Game Development
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔷 [**Village Image (OpenGL)**](https://github.com/siam-hossain9/village-image-glut-project) | Cartoon-style village scene with houses, trees, clouds & birds | C++, OpenGL, GLUT |
-| 🐍 [**Snake Game**](https://github.com/siam-hossain9/SnakeGame) | Classic single/two-player Snake game with growing tail & scoring | C++ |
-| 🏦 [**Bank Management System**](https://github.com/siam-hossain9/Bank-Management-System) | Console app with file handling, user accounts & transactions | C++ |
-
-### 🌐 Web Development
+### Machine Learning & AI
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 💰 [**Financial Management System**](https://github.com/siam-hossain9/Financial_Management_System) | Web-based financial tracking and management application | PHP, HTML, CSS |
+| [**Weather Prediction**](https://github.com/siam-hossain9/weather-prediction-project) | Predicts weather patterns using 10 years of climate data | Python, ML, Colab |
+| [**Intel Image Classification (CNN)**](https://github.com/siam-hossain9/Intel-Image-Classification-CNN) | Scene classification using convolutional neural networks | Python, TensorFlow, Jupyter |
+| [**Few-Shot Fine-Grained Classification**](https://github.com/siam-hossain9/few-shot-fine-grained-baselines) | Fine-grained image classification with DINOv2 & CLIP pretrained models | Python, DINOv2, CLIP |
+
+### Software & Game Development
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Village Image (OpenGL)**](https://github.com/siam-hossain9/village-image-glut-project) | Cartoon-style village scene with houses, trees, clouds & birds | C++, OpenGL, GLUT |
+| [**Snake Game**](https://github.com/siam-hossain9/SnakeGame) | Classic single/two-player Snake game with growing tail & scoring | C++ |
+| [**Bank Management System**](https://github.com/siam-hossain9/Bank-Management-System) | Console app with file handling, user accounts & transactions | C++ |
+
+### Web Development
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Financial Management System**](https://github.com/siam-hossain9/Financial_Management_System) | Web-based financial tracking and management application | PHP, HTML, CSS |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siam-hossain9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Siam's GitHub Stats" width="48%" />
@@ -97,11 +97,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siam-hossain9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=siam-hossain9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <em>⭐ If you find any of my projects useful, consider giving them a star!</em>
+  <em>If you find any of my projects useful, consider giving them a star!</em>
 </p>
