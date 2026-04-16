@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Siam Hossain</h1>
 
 <p align="center">
-  <em>CSE Student at AIUB &nbsp;|&nbsp; Embedded Systems & IoT &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Full-Stack Learner</em>
+  <em>CSE Student at AIUB &nbsp;|&nbsp; Embedded Systems & IoT &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Full-Stack Developer</em>
 </p>
 
 <p align="center">
@@ -19,8 +19,8 @@
 
 - Studying **Computer Science & Engineering** at AIUB
 - Passionate about **IoT**, **embedded systems**, and **machine learning**
-- Currently exploring **deep learning**, **PHP/web development**, and **computer vision**
-- I enjoy building everything from Arduino circuits to ML models
+- Currently exploring **deep learning**, **React/Next.js**, and **computer vision**
+- I enjoy building everything from Arduino circuits to full-stack web apps and ML models
 - Reach me at **[GitHub](https://github.com/siam-hossain9)**
 
 ---
@@ -32,11 +32,18 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Embedded & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -50,6 +57,7 @@
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -80,12 +88,26 @@
 | [**Village Image (OpenGL)**](https://github.com/siam-hossain9/village-image-glut-project) | Cartoon-style village scene with houses, trees, clouds & birds | C++, OpenGL, GLUT |
 | [**Snake Game**](https://github.com/siam-hossain9/SnakeGame) | Classic single/two-player Snake game with growing tail & scoring | C++ |
 | [**Bank Management System**](https://github.com/siam-hossain9/Bank-Management-System) | Console app with file handling, user accounts & transactions | C++ |
+| [**Virtual Pet**](https://github.com/siam-hossain9/virtual-pet) | Browser-based virtual pet game — care for, customize, and play with 5 pet characters | Next.js, TypeScript, React |
 
 ### Web Development
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**WASUSANOCH (Clockwatch)**](https://github.com/siam-hossain9/clockwatch) | Netflix-inspired streaming discovery platform with movies, TV shows & anime via TMDB, OMDB, TVMaze & Jikan APIs | HTML, CSS, JavaScript |
+| [**Animated Website**](https://github.com/siam-hossain9/animated-website) | Immersive long-scroll experience with Three.js shaders, particle systems, audio playback & scroll-driven storytelling | React, Vite, Three.js |
+| [**Financia**](https://github.com/siam-hossain9/Financia) | Full-featured financial management system for personal users and small business owners with MySQL backend | PHP, MySQL, HTML, CSS |
 | [**Financial Management System**](https://github.com/siam-hossain9/Financial_Management_System) | Web-based financial tracking and management application | PHP, HTML, CSS |
+
+### Learning & Coursework
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**HTML Tasks**](https://github.com/siam-hossain9/HTML-Tasks) | HTML structure and semantic markup exercises | HTML |
+| [**CSS Tasks**](https://github.com/siam-hossain9/CSS_Tasks) | CSS layout, styling and responsive design exercises | HTML, CSS |
+| [**JS Task**](https://github.com/siam-hossain9/JS_Task) | JavaScript DOM manipulation and interactivity exercises | HTML, JavaScript |
+| [**CV First Task**](https://github.com/siam-hossain9/CV-first-task-) | Personal CV/resume page built in HTML | HTML |
+| [**Second Task**](https://github.com/siam-hossain9/second-Task) | Multi-page site with patient form and data tables | HTML |
 
 ---
 
