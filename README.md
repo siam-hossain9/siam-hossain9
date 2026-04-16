@@ -21,7 +21,7 @@
 - Passionate about **IoT**, **embedded systems**, and **machine learning**
 - Currently exploring **deep learning**, **React/Next.js**, and **computer vision**
 - I enjoy building everything from Arduino circuits to full-stack web apps and ML models
-- Reach me at **[GitHub](https://github.com/siam-hossain9)**
+- Reach me at **[Gmail](mailto:siamhossain1130@gmail.com)**
 
 ---
 
