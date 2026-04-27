@@ -65,6 +65,16 @@
 ---
 
 ## Projects
+### Web Development
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**siam-ai-chatbot**](https://github.com/siam-hossain9/clockwatch) | A modern, highly interactive AI Chatbot web application featuring stunning 3D visual backgrounds and fluid animations. Built using the latest Next.js App Router and React capabilities. | TypeScript, CSS, JavaScript, Python |
+| [**WASUSANOCH (Clockwatch)**](https://github.com/siam-hossain9/clockwatch) | Netflix-inspired streaming discovery platform with movies, TV shows & anime via TMDB, OMDB, TVMaze & Jikan APIs | HTML, CSS, JavaScript |
+| [**Animated Website**](https://github.com/siam-hossain9/animated-website) | Immersive long-scroll experience with Three.js shaders, particle systems, audio playback & scroll-driven storytelling | React, Vite, Three.js |
+| [**Financia**](https://github.com/siam-hossain9/Financia) | Full-featured financial management system for personal users and small business owners with MySQL backend | PHP, MySQL, HTML, CSS |
+| [**Financial Management System**](https://github.com/siam-hossain9/Financial_Management_System) | Web-based financial tracking and management application | PHP, HTML, CSS |
+| [**Virtual Pet**](https://github.com/siam-hossain9/virtual-pet) | Browser-based virtual pet game — care for, customize, and play with 5 pet characters | Next.js, TypeScript, React |
 
 ### Embedded Systems & IoT
 
@@ -88,26 +98,11 @@
 | [**Village Image (OpenGL)**](https://github.com/siam-hossain9/village-image-glut-project) | Cartoon-style village scene with houses, trees, clouds & birds | C++, OpenGL, GLUT |
 | [**Snake Game**](https://github.com/siam-hossain9/SnakeGame) | Classic single/two-player Snake game with growing tail & scoring | C++ |
 | [**Bank Management System**](https://github.com/siam-hossain9/Bank-Management-System) | Console app with file handling, user accounts & transactions | C++ |
-| [**Virtual Pet**](https://github.com/siam-hossain9/virtual-pet) | Browser-based virtual pet game — care for, customize, and play with 5 pet characters | Next.js, TypeScript, React |
 
-### Web Development
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**WASUSANOCH (Clockwatch)**](https://github.com/siam-hossain9/clockwatch) | Netflix-inspired streaming discovery platform with movies, TV shows & anime via TMDB, OMDB, TVMaze & Jikan APIs | HTML, CSS, JavaScript |
-| [**Animated Website**](https://github.com/siam-hossain9/animated-website) | Immersive long-scroll experience with Three.js shaders, particle systems, audio playback & scroll-driven storytelling | React, Vite, Three.js |
-| [**Financia**](https://github.com/siam-hossain9/Financia) | Full-featured financial management system for personal users and small business owners with MySQL backend | PHP, MySQL, HTML, CSS |
-| [**Financial Management System**](https://github.com/siam-hossain9/Financial_Management_System) | Web-based financial tracking and management application | PHP, HTML, CSS |
 
-### Learning & Coursework
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**HTML Tasks**](https://github.com/siam-hossain9/HTML-Tasks) | HTML structure and semantic markup exercises | HTML |
-| [**CSS Tasks**](https://github.com/siam-hossain9/CSS_Tasks) | CSS layout, styling and responsive design exercises | HTML, CSS |
-| [**JS Task**](https://github.com/siam-hossain9/JS_Task) | JavaScript DOM manipulation and interactivity exercises | HTML, JavaScript |
-| [**CV First Task**](https://github.com/siam-hossain9/CV-first-task-) | Personal CV/resume page built in HTML | HTML |
-| [**Second Task**](https://github.com/siam-hossain9/second-Task) | Multi-page site with patient form and data tables | HTML |
+
 
 ---
 
