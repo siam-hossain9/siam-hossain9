@@ -69,7 +69,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**siam-ai-chatbot**](https://github.com/siam-hossain9/clockwatch) | A modern, highly interactive AI Chatbot web application featuring stunning 3D visual backgrounds and fluid animations. Built using the latest Next.js App Router and React capabilities. | TypeScript, CSS, JavaScript, Python |
+| [**siam-ai-chatbot**](https://github.com/siam-hossain9/siam-ai-chatbot) | A modern, highly interactive AI Chatbot web application featuring stunning 3D visual backgrounds and fluid animations. Built using the latest Next.js App Router and React capabilities. | TypeScript, CSS, JavaScript, Python |
 | [**WASUSANOCH (Clockwatch)**](https://github.com/siam-hossain9/clockwatch) | Netflix-inspired streaming discovery platform with movies, TV shows & anime via TMDB, OMDB, TVMaze & Jikan APIs | HTML, CSS, JavaScript |
 | [**Animated Website**](https://github.com/siam-hossain9/animated-website) | Immersive long-scroll experience with Three.js shaders, particle systems, audio playback & scroll-driven storytelling | React, Vite, Three.js |
 | [**Financia**](https://github.com/siam-hossain9/Financia) | Full-featured financial management system for personal users and small business owners with MySQL backend | PHP, MySQL, HTML, CSS |
