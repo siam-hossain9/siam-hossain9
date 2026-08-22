@@ -16,7 +16,7 @@
 
 ## About
 
-I build things that run on their own: LLM-driven automation pipelines, agents that operate real software, and the full-stack apps around them. Most recently **AI Operations Intern at Voltaris Labs** (May–Aug 2026, remote), working on scraping and data-pipeline automation.
+I build things that run on their own: LLM-driven automation pipelines, agents that operate real software, and the full-stack apps around them. Most recently **AI Operations  at Voltaris Labs** (May–Aug 2026, remote), working on scraping and data-pipeline automation.
 
 Outside of that I do independent machine-learning research on few-shot and open-set image classification, and ship small developer tools — one of which lives on PyPI.
 
