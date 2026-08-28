@@ -22,6 +22,7 @@ Outside of that I do independent machine-learning research on few-shot and open-
 
 - Working with **Python, TypeScript, React/Next.js, FastAPI, n8n**, and the OpenAI/Anthropic/OpenRouter APIs
 - Currently going deeper on **agent architectures, computer-use agents, and MCP**
+- Certified in **Foundations of Data Science** (Google / Coursera, Jun 2026) [verify](https://coursera.org/verify/GQNXRY6455Q2)
 - Reach me at **siamhossain1130@gmail.com**
 
 ---
