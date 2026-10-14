@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>AI Automation &amp; Full-Stack Engineer</strong><br/>
-  <sub>Computer Science &amp; Engineering graduate, AIUB &nbsp;·&nbsp; Dhaka, Bangladesh &nbsp;·&nbsp; Open to remote roles</sub>
+  <sub>BSc Computer Science &amp; Engineering, AIUB &nbsp;·&nbsp; Dhaka, Bangladesh &nbsp;·&nbsp; Open to remote roles</sub>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## About
 
-I build things that run on their own: LLM-driven automation pipelines, agents that operate real software, and the full-stack apps around them. Most recently **AI Operations  at Voltaris Labs** (May–Aug 2026, remote), working on scraping and data-pipeline automation.
+I build things that run on their own: LLM-driven automation pipelines, agents that operate real software, and the full-stack apps around them. I work at **Voltaris Labs** as an Automation Specialist (joined as an AI Operations Intern in May 2026, remote), building scraping and data-pipeline automation.
 
 Outside of that I do independent machine-learning research on few-shot and open-set image classification, and ship small developer tools — one of which lives on PyPI.
 
